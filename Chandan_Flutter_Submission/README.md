@@ -1,4 +1,4 @@
-# SIMPLE UI BUILT USING MATERIAL AND SCAFFOLD
+# Simple UI built using Material & Scaffold 🧑‍🚀
 
 ## Getting Started
 
